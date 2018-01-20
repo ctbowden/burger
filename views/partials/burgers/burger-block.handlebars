@@ -2,6 +2,6 @@
 	{{burger_name}}
 
 	<button class="devoured" data-id="{{id}}" data-burger_name="{{burger_name}}" data-newDevoured="{{true}}">
-		{{#if devoured}}I've been Devoured!{{else}}EAT ME!{{/if}}
+		{{#unless devoured}}EAT ME!{{/unless}}
 	</button>
 </li>
