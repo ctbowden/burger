@@ -4,6 +4,7 @@ DROP DATABASE IF EXISTS burgers_db;
 CREATE DATABASE burgers_db;
 USE burgers_db;
 
+USE giztcrgnypu2bkb2;
 -- Create the table tasks.
 CREATE TABLE burgers
 (

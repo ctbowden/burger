@@ -23,5 +23,9 @@
     "express-handlebars": "^3.0.0",
     "method-override": "^2.3.10",
     "mysql": "^2.15.0"
+  },
+  "engines": {
+    "node": "6.11.1",
+    "npm": "3.10.10"
   }
 }
