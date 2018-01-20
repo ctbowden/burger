@@ -3,8 +3,9 @@ $(function() {
     $(".devoured").on("click", function(event) {
       var id = $(this).data("id");
       var newDevoured = $(this).data("newDevoured");
-  
+      var burgerName = $(this).data("burger_name");
       var newDevouredState = {
+        burger_name: burgerName,
         devoured: true
       };
   
