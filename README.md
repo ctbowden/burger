@@ -16,4 +16,4 @@ Feel free to clone this repo.  You'll need the following:
   * Express-Handlebars
   * MySql
 
-## View my example site here:  https://floating-river-64135.herokuapp.com
+### View the Demo:  https://floating-river-64135.herokuapp.com
